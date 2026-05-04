@@ -1,0 +1,10 @@
+export const TECHNIQUE = [
+  { num: '01', title: 'Slow negatives on every rep', body: '3-4 seconds lowering the weight, 1 second up. The most important rule. Makes 10kg feel like 15kg and causes more muscle micro-damage (= more growth).', tag: 'Most important' },
+  { num: '02', title: 'Squeeze at peak contraction', body: 'Hold the top position for 1-2 seconds. For curls: fully contracted at the top. For triceps: arm fully extended. This maximises the tension at peak.', tag: 'Every rep' },
+  { num: '03', title: 'Never fully lock out joints', body: 'Keep a slight bend at the elbow on tricep extensions. Keeping tension on the muscle at all times beats full range with no tension.', tag: 'Triceps' },
+  { num: '04', title: 'Drop sets on final set', body: '10 reps with 10kg immediately pick up 5kg then go to failure. No rest between. Extends the set past normal failure point.', tag: 'Heavy days' },
+  { num: '05', title: 'Isometric holds', body: 'Halfway through a curl or extension, hold still for 10-20 seconds. Brutal on the muscle and adds serious intensity without needing heavier weight.', tag: 'Intensity' },
+  { num: '06', title: 'No swinging or momentum', body: 'If you need to swing your back to lift, you have done enough reps. Cheat reps do not build arms, controlled reps do. Reduce reps before you reduce form.', tag: 'Form check' },
+  { num: '07', title: 'Supersets for pump days', body: 'Biceps curl followed immediately by triceps extension = one superset. Zero rest between the two exercises, 45 sec rest after both. Floods arms with blood.', tag: 'Pump days' },
+  { num: '08', title: 'Prioritise triceps', body: 'Triceps = 2/3 of arm size. If time or energy is short, do triceps first. Every session should have at least as much tricep volume as bicep volume.', tag: 'Priority' },
+];
